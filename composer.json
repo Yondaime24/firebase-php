@@ -1,0 +1,10 @@
+{
+    "name": "fcbpay/firebase_php",
+    "description": "php_api",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "7.x-dev"
+    }
+}
